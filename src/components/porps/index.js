@@ -14,4 +14,7 @@ class ExempleProps extends React.Component{
   }
 }
 
+
+<ExempleProps></ExempleProps>
+
 export default ExempleProps 
